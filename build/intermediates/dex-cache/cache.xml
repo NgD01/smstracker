@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.1_1e96e84a4d458c1b9e6c1bf84a997ed8ee304a8b.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.1_a98bb009c82d6ef1b001c0780c69340849d76ed6.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-design-23.2.1_42407f9b0cb4433448a4e41e21d5375adaca98e8.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.2.1_84a61de15bc734e6cae421250c8091fd8fb9bddc.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.1_df7e395cd26cb8b1f626886f2463e3e6cde648c0.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_e8df1287416479342f2857774f3f103c2a2c660c.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.1_63c557bd0dc3323cc5494163181ee441259eb75c.jar" />
+    </item>
+    <item
+        jar="/Users/semiuamao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/semiuamao/AndroidStudioProjects/SmsTracker1/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_14366db9f4bdb9019b8d98d6d68b9c595e77e76a.jar" />
+    </item>
+
+</items>
